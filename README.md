@@ -59,7 +59,7 @@
 # Портфолио 💼
 
 - <a href="https://github.com/irenelt/irenelt" rel="noflow">Чек-листы и тест кейсы</a> 
-- <a href="https://github.com/irenelt/irenelt" rel="noflow">Баг-репорты</a>
+- <a href="https://drive.google.com/drive/folders/1rbB2Ib4NxcjjoGoPnxh0Hgoo32ch6-3G" rel="noflow">Баг-репорты</a>
 - <a href="https://github.com/irenelt/irenelt" rel="noflow">Postman</a>
 
 <!--## Статистика
