@@ -6,6 +6,16 @@
 ## Мое резюме 📜
 [Мое резюме](https://github.com/irenelt)
 <!--отредактировать создав реальное резюме и прикрепив ссылку-->
+## Социальные сети
+  <div id="badges">
+    <a href="https://t.me/irenelenz">
+      <img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="mailto:diekirchirene@gmail.com">
+      <img src="https://seeklogo.com/images/G/gmail-logo-B9EE8C51F1-seeklogo.com.png" width="40" height="40" alt="gmail" />
+    </a>
+  </div>
+
 # Инструменты 🔬
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
