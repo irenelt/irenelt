@@ -18,6 +18,10 @@
 
 <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>
 
+<img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" title="git" alt="git" width="40" height="40"/>
+
+<img src="https://seeklogo.com/images/V/visual-studio-code-logo-43C3AC9C08-seeklogo.com.png" title="vs code" alt="vs code" width="40" height="40"/>
+
 </div>
 
 <!--![Jira](https://img.shields.io/badge/-Jira-2684ff?style=for-the-badge&logo=Jira&logoColor=2684ff)
@@ -33,3 +37,6 @@
 - <a href="https://github.com/irenelt/irenelt" rel="noflow">Чек-листы и тест кейсы</a> 
 - <a href="https://github.com/irenelt/irenelt" rel="noflow">Баг-репорты</a>
 - <a href="https://github.com/irenelt/irenelt" rel="noflow">Postman</a>
+
+## Статистика
+[![irenelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenelt)](https://github.com/irenelt/github-readme-stats)
