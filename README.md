@@ -1,12 +1,12 @@
 <!--Header
 -->
 <!--## Обо мне-->
-## Привет✌, меня зовут Ирина и я начинающий тестировщик.
+# Привет✌, меня зовут Ирина и я начинающий тестировщик.
  
 ## Мое резюме 📜
 [Мое резюме](https://github.com/irenelt)
 <!--отредактировать создав реальное резюме и прикрепив ссылку-->
-## Социальные сети
+## Социальные сети ☎
   <div id="badges">
     <a href="https://t.me/irenelenz">
       <img src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" width="40" height="40" alt="telegram" />
@@ -24,13 +24,15 @@
 
  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
 
 <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>
 
 <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" title="git" alt="git" width="40" height="40"/>
 
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-43C3AC9C08-seeklogo.com.png" title="vs code" alt="vs code" width="40" height="40"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
 
 </div>
 
