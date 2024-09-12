@@ -29,3 +29,8 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-EF5B25?style=for-the-badge&logo=DevTools&logoColor=EF5B25)-->
   
 # Портфолио
+<div>
+- <a href="https://github.com/irenelt/irenelt" rel="noflow">Чек-листы и тест кейсы</a> 
+- <a href="https://github.com/irenelt/irenelt" rel="noflow">Баг-репорты</a>
+- <a href="https://github.com/irenelt/irenelt" rel="noflow">Postman</a>
+</div>
