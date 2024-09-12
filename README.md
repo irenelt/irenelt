@@ -22,6 +22,8 @@
 
  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>
 
+ <img src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png" title="azure devops" alt="azure devops" width="40" height="40"/>
+
  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
 
  ## Работа с кодом
