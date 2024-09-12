@@ -38,6 +38,6 @@
 - <a href="https://github.com/irenelt/irenelt" rel="noflow">Баг-репорты</a>
 - <a href="https://github.com/irenelt/irenelt" rel="noflow">Postman</a>
 
-## Статистика
-<!--[![irenelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenelt)](https://github.com/irenelt/github-readme-stats)-->
-![irenelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenelt&show_icons=true&theme=tokyonight)
+<!--## Статистика
+[![irenelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenelt)](https://github.com/irenelt/github-readme-stats)
+![irenelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenelt&show_icons=true&theme=tokyonight)-->
